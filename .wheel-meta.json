@@ -1,0 +1,22 @@
+{
+  "wheel_id": 675,
+  "structure": "umbrella",
+  "slug": "noosafencing-153",
+  "project": "fencing-services-noosa-cb2f40e535117bb108d8f09e75a250145b995177",
+  "parent_t1_ref": "noosafencing-007",
+  "node_role": "buffer",
+  "money_target": "noosafencing.com.au",
+  "primary_kw": "fencing services noosa",
+  "intended_url": "https://sitesau.github.io/noosafencing-153/",
+  "tier": "T2",
+  "writeback_nonce": "06e9162036e3b980",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/fencing-services-noosa-007/",
+      "anchor": "a guide to fencing services noosa",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
